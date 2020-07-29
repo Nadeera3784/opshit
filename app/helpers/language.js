@@ -9,7 +9,6 @@ const languageHelper = async function () {
     return i18n;
 }
 
-
 module.exports = {
     languageHelper,
 };
